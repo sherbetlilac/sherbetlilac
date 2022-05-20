@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Victoria
+- 👋🏻 Hi, I’m Victoria
 - 👀 I’m interested in Data Analytics and Visualisation
 - 🌱 I’m currently learning improve on my analytical skills - Python, R, Ruby
 - 💞️ I’m looking to collaborate on data managment projects
